@@ -1,0 +1,15 @@
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\bin\Debug\net6.0\Distance Calculator.exe
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\bin\Debug\net6.0\Distance Calculator.deps.json
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\bin\Debug\net6.0\Distance Calculator.runtimeconfig.json
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\bin\Debug\net6.0\Distance Calculator.dll
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\bin\Debug\net6.0\Distance Calculator.pdb
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.csproj.AssemblyReference.cache
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.AssemblyInfoInputs.cache
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.AssemblyInfo.cs
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.csproj.CoreCompileInputs.cache
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.dll
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\refint\Distance Calculator.dll
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.pdb
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\Distance Calculator.genruntimeconfig.cache
+C:\Users\atlan\OneDrive\Desktop\C#\Distance Calculator\obj\Debug\net6.0\ref\Distance Calculator.dll
